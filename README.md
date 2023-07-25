@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Lisa-Tera
+- 👋 Hi, I’m Lisa
 - 👀 I’m interested in python & data
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ai & spring
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Lisa
-- 👀 I’m interested in python & data
-- 🌱 I’m currently learning ai & spring
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+History
+이화여자대학교 컴퓨터공학전공(2020.03 ~ )
 
-<!---
-Lisa-Tera/Lisa-Tera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+[68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/8207142d-c5bb-4f04-bbdb-e67d450fd6dd)

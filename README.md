@@ -10,4 +10,8 @@
  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
  
- 𝗕𝗹𝗼𝗴 (https://www.notion.so/71ae2e8203b1478f8ba45d5e6c12ee40)
+## 🛠 Tools
+- ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+- ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
